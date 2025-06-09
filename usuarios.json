@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "Numcel": "60521317",
+    "Numfijo": "22723073"
+  },
+  {
+    "nombre": "María",
+    "apellido": "Gómez",
+    "username": "mariagomez",
+    "password": "qwerty"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Sánchez",
+    "username": "pedrosanchez",
+    "password": "123456"
+  }
+]
